@@ -104,8 +104,8 @@ Generates a random string using the specified character set.
 
 ```bash
 # Clone the repository
-git clone https://github.com/mikla/rstring.git
-cd rstring
+git clone https://github.com/mikla/dummy-github-maven-publish.git
+cd dummy-github-maven-publish
 
 # Build the project
 sbt compile
